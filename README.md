@@ -7,6 +7,15 @@
 Install requirements:
 ```
 pip install -r requirements.txt
+
+```
+To setup:
+Add your [Twitter app credentials] (https://developer.twitter.com/en/apps) to:
+```
+consumer_key
+consumer_secret
+access_token
+access_token_secret
 ```
 
 To run:
